@@ -1,0 +1,40 @@
+* {
+    background-color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+    text-align: right;
+    background-color: black;
+    color: aliceblue;
+}
+
+li {
+    display: inline;
+    margin: 20px;
+}
+
+img{
+    position: relative;
+    left: 550px;
+    margin: 0 auto;
+    padding:20px black
+    ;
+}
+
+.img1{
+    background-color: burlywood;
+}
+
+footer{
+text-align:center
+}
+
+#text{
+    color: brown;
+    display: inline;
+}
+
+header{
+    display: fixed;
+}
